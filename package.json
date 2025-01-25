@@ -1,0 +1,22 @@
+{
+  "name": "paylocity-qa-challenge",
+  "version": "1.0.0",
+  "description": "paylocity automation qa challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianesl/Paylocity-QA-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianesl/Paylocity-QA-challenge/issues"
+  },
+  "homepage": "https://github.com/christianesl/Paylocity-QA-challenge#readme",
+  "devDependencies": {
+    "cypress": "^14.0.0"
+  }
+}
