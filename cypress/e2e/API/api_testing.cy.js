@@ -35,7 +35,7 @@ describe('API testing', () => {
       });
     });
 
-    it.only('Test Get Employee', () => {
+    it('Test Get Employee', () => {
       const employeeId = 21343124231;
 
       cy.request({
